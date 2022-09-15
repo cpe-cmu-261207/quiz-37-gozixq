@@ -17,14 +17,14 @@ export default function Comment() {
 
         <div
           className="rounded rounded-3 p-2"
-          style={{ backgroundColor: "#3A3B3C" }}
+          style={{ backgroundColor: "#EEEEEE" }}
         >
-          <span className="fw-semibold" style={{ color: "#E5E7EB" }}>
+          <span className="fw-semibold" style={{ color: "#0F0F0F" }}>
             lalisa
           </span>
           <br />
 
-          <span style={{ color: "#E5E7EB" }}>
+          <span style={{ color: "#0F0F0F" }}>
             จริงค่า
           </span>
 

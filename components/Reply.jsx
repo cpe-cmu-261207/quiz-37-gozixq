@@ -36,7 +36,7 @@ export default function Reply() {
 
         <div
           className="rounded rounded-3 p-2"
-          style={{ backgroundColor: "##EEEEEE" }}
+          style={{ backgroundColor: "#EEEEEE" }}
         >
           <span className="fw-semibold" style={{ color: "#0F0F0F" }}>
             แมวตัวหนึ่ง
