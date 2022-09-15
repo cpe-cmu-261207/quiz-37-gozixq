@@ -1,4 +1,5 @@
 import React from "react";
+import Comment from "./Comment";
 
 export default function PostOwner() {
   return (
@@ -31,7 +32,7 @@ export default function PostOwner() {
       </div>
 
       <hr className="m-0 border" />
-      
+
     </div>
     <Comment />
   </div>
