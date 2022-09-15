@@ -14,12 +14,12 @@ export default function PostOwner() {
             style={{ objectFit: "cover" }}
           />
 
-          <span className="fw-semibold fs-5 text-white">
+          <span className="fw-semibold fs-5">
             Natsinee Sasanasopa 640612087
           </span>
         </div>
 
-      <span className="text-white"> 
+      <span className="fw-semibold fs-5"> 
         คณะที่ใช่ นรกที่เลือก 
       </span>
       
