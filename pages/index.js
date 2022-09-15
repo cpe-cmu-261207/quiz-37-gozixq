@@ -5,15 +5,16 @@ import { comments } from "../libs/comments";
 export default function Home() {
   return (
     <div
-      style={{ minHeight: "100vh", backgroundColor: "#18191A" }}
+      style={{ minHeight: "100vh", backgroundColor: "ghostwhite" }}
       className="p-3"
     >
       {/* Entire App Container */}
       <div
-        style={{ maxWidth: "700px", backgroundColor: "#242526" }}
-        className="mx-auto p-3 rounded rounded-3 shadow-sm"
+        style={{ maxWidth: "700px" }}
+        className="mx-auto bg-white p-3 rounded rounded-3 shadow-sm"
       >
-        <PostOwner />
+    
+    <PostOwner />
       </div>
     </div>
   );
