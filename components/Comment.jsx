@@ -19,12 +19,12 @@ export default function Comment() {
           className="rounded rounded-3 p-2"
           style={{ backgroundColor: "#3A3B3C" }}
         >
-          <span className="fw-semibold" style={{ color: "#E4E6EB" }}>
+          <span className="fw-semibold" style={{ color: "#E5E7EB" }}>
             lalisa
           </span>
           <br />
 
-          <span style={{ color: "#E4E6EB" }}>
+          <span style={{ color: "#E5E7EB" }}>
             จริงค่า
           </span>
 
@@ -55,11 +55,11 @@ export default function Comment() {
           className="rounded rounded-3 p-2"
           style={{ backgroundColor: "#3A3B3C" }}
         >
-          <span className="fw-semibold" style={{ color: "#E4E6EB" }}>
+          <span className="fw-semibold" style={{ color: "#E5E7EB" }}>
             Charlie Brown
           </span><br />
 
-          <span style={{ color: "#E4E6EB" }}>
+          <span style={{ color: "#E5E7EB" }}>
             บ้าไปแล้ว
           </span>
           
