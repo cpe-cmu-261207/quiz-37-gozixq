@@ -14,14 +14,14 @@ export default function Reply() {
 
         <div
           className="rounded rounded-3 p-2"
-          style={{ backgroundColor: "#3A3B3C" }}
+          style={{ backgroundColor: "#EEEEEE" }}
         >
-          <span className="fw-semibold" style={{ color: "#E4E6EB" }}>
+          <span className="fw-semibold" style={{ color: "#0F0F0F" }}>
             หมาน้อย
           </span>
           <br />
 
-          <span style={{ color: "#E4E6EB" }}>จริงค้าบบบบบบบบ</span>
+          <span style={{ color: "#0F0F0F" }}>จริงค้าบบบบบบบบ</span>
         </div>
       </div>
 
@@ -36,20 +36,20 @@ export default function Reply() {
 
         <div
           className="rounded rounded-3 p-2"
-          style={{ backgroundColor: "#3A3B3C" }}
+          style={{ backgroundColor: "##EEEEEE" }}
         >
-          <span className="fw-semibold" style={{ color: "#E4E6EB" }}>
+          <span className="fw-semibold" style={{ color: "#0F0F0F" }}>
             แมวตัวหนึ่ง
           </span>
           <br />
 
-          <span style={{ color: "#E4E6EB" }}>ใช่เลออ</span>
+          <span style={{ color: "#0F0F0F" }}>ใช่เลออ</span>
 
           <div className="d-flex align-items-center gap-1">
             <img src="/like.svg" width={20}></img>
             <span style={{ color: "#B0B3B8" }}>20 คน</span>
           </div>
-          
+
         </div>
       </div>
     </div>
